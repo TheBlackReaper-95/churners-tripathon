@@ -23,24 +23,6 @@
       <module name="back-end_test" target="1.8" />
       <module name="churners-tripathon_main" target="1.8" />
       <module name="churners-tripathon_test" target="1.8" />
-      <module name="hydra-clickstream_main" target="1.7" />
-      <module name="hydra-clickstream_test" target="1.7" />
-      <module name="hydra-common_main" target="1.7" />
-      <module name="hydra-common_test" target="1.7" />
-      <module name="hydra-couchbase_main" target="1.7" />
-      <module name="hydra-couchbase_test" target="1.7" />
-      <module name="hydra-device_main" target="1.7" />
-      <module name="hydra-device_test" target="1.7" />
-      <module name="hydra-exporter_main" target="1.7" />
-      <module name="hydra-exporter_test" target="1.7" />
-      <module name="hydra-glide_main" target="1.7" />
-      <module name="hydra-glide_test" target="1.7" />
-      <module name="hydra-importer_main" target="1.7" />
-      <module name="hydra-importer_test" target="1.7" />
-      <module name="hydra-segments_main" target="1.7" />
-      <module name="hydra-segments_test" target="1.7" />
-      <module name="hydra_main" target="1.7" />
-      <module name="hydra_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

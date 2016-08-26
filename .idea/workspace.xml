@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c9f5ac-6119-495f-a51d-83d51eccad0e" name="Default" comment="This is the first commit">
+    <list default="true" id="0e26dcd8-14b9-4565-bb40-19eb06655707" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="hydra.iws" />
+    <ignored path="churners-tripathon.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-common/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-common/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-clickstream/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-clickstream/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-device/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-device/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-segments/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-segments/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-couchbase/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-couchbase/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-exporter/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-exporter/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-glide/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-glide/build/" />
-    <ignored path="$PROJECT_DIR$/hydra-importer/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hydra-importer/build/" />
     <ignored path="$PROJECT_DIR$/back-end/.gradle/" />
     <ignored path="$PROJECT_DIR$/back-end/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,10 +41,36 @@
     </system>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="hydra" />
+    <favorites_list name="churners-tripathon" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back-end/src/test/java/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dummy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/back-end/src/main/java/com/quirkbook/pojos/Dummy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +85,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Program Files\gradle-2.14" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\mmt6434\Downloads\gradle-3.0-all\gradle-3.0" />
       </map>
     </option>
     <option name="availableProjects">
@@ -359,423 +376,11 @@
             </list>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/hydra-clickstream">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-clickstream'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-clickstream'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-clickstream'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-clickstream" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-common">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-common'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-common'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-common'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-common" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-couchbase">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-couchbase'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-couchbase'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-couchbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-couchbase" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-device">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-device'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-device'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-device'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-device" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-exporter">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-exporter'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-exporter'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-exporter'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-exporter" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-glide">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-glide'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-glide'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-glide'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-glide" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-importer">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-importer'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-importer'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-importer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-importer" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/hydra-segments">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':hydra-segments'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':hydra-segments'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':hydra-segments'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hydra-segments" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:/DPT-Hydra_engine" value="13225173031462" />
-        <entry key="D:/Git/Hydra/DPT-Hydra_engine" value="13248228701617" />
-        <entry key="D:/Projects/YamlTest" value="2939384479574" />
-        <entry key="D:/Projects/churners-tripathon" value="2944051161898" />
-        <entry key="$PROJECT_DIR$" value="4416593690506" />
+        <entry key="$PROJECT_DIR$" value="4416607854065" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -804,133 +409,132 @@
               <option name="name" value="churners-tripathon" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="C:/Program Files/gradle-2.14/src/announce" />
-                  <option value="C:/Program Files/gradle-2.14/src/antlr" />
-                  <option value="C:/Program Files/gradle-2.14/src/base-services" />
-                  <option value="C:/Program Files/gradle-2.14/src/base-services-groovy" />
-                  <option value="C:/Program Files/gradle-2.14/src/build-comparison" />
-                  <option value="C:/Program Files/gradle-2.14/src/build-init" />
-                  <option value="C:/Program Files/gradle-2.14/src/cli" />
-                  <option value="C:/Program Files/gradle-2.14/src/code-quality" />
-                  <option value="C:/Program Files/gradle-2.14/src/core" />
-                  <option value="C:/Program Files/gradle-2.14/src/dependency-management" />
-                  <option value="C:/Program Files/gradle-2.14/src/diagnostics" />
-                  <option value="C:/Program Files/gradle-2.14/src/ear" />
-                  <option value="C:/Program Files/gradle-2.14/src/ide" />
-                  <option value="C:/Program Files/gradle-2.14/src/ide-native" />
-                  <option value="C:/Program Files/gradle-2.14/src/ide-play" />
-                  <option value="C:/Program Files/gradle-2.14/src/installation-beacon" />
-                  <option value="C:/Program Files/gradle-2.14/src/internal-integ-testing" />
-                  <option value="C:/Program Files/gradle-2.14/src/internal-testing" />
-                  <option value="C:/Program Files/gradle-2.14/src/ivy" />
-                  <option value="C:/Program Files/gradle-2.14/src/jacoco" />
-                  <option value="C:/Program Files/gradle-2.14/src/javascript" />
-                  <option value="C:/Program Files/gradle-2.14/src/jetty" />
-                  <option value="C:/Program Files/gradle-2.14/src/jvm-services" />
-                  <option value="C:/Program Files/gradle-2.14/src/language-groovy" />
-                  <option value="C:/Program Files/gradle-2.14/src/language-java" />
-                  <option value="C:/Program Files/gradle-2.14/src/language-jvm" />
-                  <option value="C:/Program Files/gradle-2.14/src/language-native" />
-                  <option value="C:/Program Files/gradle-2.14/src/language-scala" />
-                  <option value="C:/Program Files/gradle-2.14/src/launcher" />
-                  <option value="C:/Program Files/gradle-2.14/src/logging" />
-                  <option value="C:/Program Files/gradle-2.14/src/maven" />
-                  <option value="C:/Program Files/gradle-2.14/src/messaging" />
-                  <option value="C:/Program Files/gradle-2.14/src/model-core" />
-                  <option value="C:/Program Files/gradle-2.14/src/model-groovy" />
-                  <option value="C:/Program Files/gradle-2.14/src/native" />
-                  <option value="C:/Program Files/gradle-2.14/src/open-api" />
-                  <option value="C:/Program Files/gradle-2.14/src/osgi" />
-                  <option value="C:/Program Files/gradle-2.14/src/platform-base" />
-                  <option value="C:/Program Files/gradle-2.14/src/platform-jvm" />
-                  <option value="C:/Program Files/gradle-2.14/src/platform-native" />
-                  <option value="C:/Program Files/gradle-2.14/src/platform-play" />
-                  <option value="C:/Program Files/gradle-2.14/src/plugin-development" />
-                  <option value="C:/Program Files/gradle-2.14/src/plugin-use" />
-                  <option value="C:/Program Files/gradle-2.14/src/plugins" />
-                  <option value="C:/Program Files/gradle-2.14/src/process-services" />
-                  <option value="C:/Program Files/gradle-2.14/src/publish" />
-                  <option value="C:/Program Files/gradle-2.14/src/reporting" />
-                  <option value="C:/Program Files/gradle-2.14/src/resources" />
-                  <option value="C:/Program Files/gradle-2.14/src/resources-http" />
-                  <option value="C:/Program Files/gradle-2.14/src/resources-s3" />
-                  <option value="C:/Program Files/gradle-2.14/src/resources-sftp" />
-                  <option value="C:/Program Files/gradle-2.14/src/scala" />
-                  <option value="C:/Program Files/gradle-2.14/src/signing" />
-                  <option value="C:/Program Files/gradle-2.14/src/sonar" />
-                  <option value="C:/Program Files/gradle-2.14/src/test-kit" />
-                  <option value="C:/Program Files/gradle-2.14/src/testing-base" />
-                  <option value="C:/Program Files/gradle-2.14/src/testing-jvm" />
-                  <option value="C:/Program Files/gradle-2.14/src/testing-native" />
-                  <option value="C:/Program Files/gradle-2.14/src/tooling-api" />
-                  <option value="C:/Program Files/gradle-2.14/src/tooling-api-builders" />
-                  <option value="C:/Program Files/gradle-2.14/src/ui" />
-                  <option value="C:/Program Files/gradle-2.14/src/wrapper" />
-                  <option value="C:/Program Files/gradle-2.14/lib/ant-1.9.6.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/ant-launcher-1.9.6.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-base-services-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-base-services-groovy-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-cli-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-core-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-docs-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-installation-beacon-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-jvm-services-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-launcher-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-logging-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-messaging-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-model-core-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-model-groovy-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-native-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-open-api-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-process-services-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-resources-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-tooling-api-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-ui-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/gradle-wrapper-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/groovy-all-2.4.4.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-announce-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-antlr-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-build-comparison-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-build-init-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-code-quality-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-dependency-management-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-diagnostics-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-ear-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-ide-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-ide-native-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-ide-play-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-ivy-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-jacoco-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-javascript-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-jetty-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-language-groovy-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-language-java-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-language-jvm-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-language-native-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-language-scala-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-maven-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-osgi-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-platform-base-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-platform-jvm-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-platform-native-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-platform-play-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-plugin-development-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-plugin-use-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-plugins-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-publish-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-reporting-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-resources-http-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-resources-s3-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-resources-sftp-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-scala-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-signing-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-sonar-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-test-kit-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-testing-base-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-testing-jvm-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-testing-native-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/gradle-tooling-api-builders-2.14.jar" />
-                  <option value="C:/Program Files/gradle-2.14/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/announce" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/antlr" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/base-services" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/base-services-groovy" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/build-comparison" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/build-init" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/cli" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/code-quality" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/core" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/dependency-management" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/diagnostics" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ear" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ide" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ide-native" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ide-play" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/installation-beacon" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/internal-testing" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ivy" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/jacoco" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/javascript" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/jetty" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/jvm-services" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/language-groovy" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/language-java" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/language-jvm" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/language-native" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/language-scala" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/launcher" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/logging" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/maven" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/messaging" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/model-core" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/model-groovy" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/native" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/open-api" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/osgi" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/platform-base" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/platform-jvm" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/platform-native" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/platform-play" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/plugin-development" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/plugin-use" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/plugins" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/process-services" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/publish" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/reporting" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/resources" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/resources-http" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/resources-s3" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/resources-sftp" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/scala" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/signing" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/test-kit" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/testing-base" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/testing-jvm" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/testing-native" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/tooling-api" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/ui" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/src/wrapper" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-base-services-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-base-services-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-cli-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-core-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-docs-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-installation-beacon-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-jvm-services-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-launcher-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-logging-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-messaging-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-model-core-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-model-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-native-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-open-api-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-process-services-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-resources-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-script-kotlin-0.3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-tooling-api-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-ui-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/gradle-wrapper-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-announce-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-antlr-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-build-comparison-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-build-init-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-code-quality-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-dependency-management-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-diagnostics-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-ear-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-ide-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-ide-native-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-ide-play-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-ivy-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-jacoco-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-javascript-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-jetty-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-language-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-language-java-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-language-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-language-native-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-language-scala-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-maven-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-osgi-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-platform-base-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-platform-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-platform-native-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-platform-play-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-plugin-development-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-plugin-use-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-plugins-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-publish-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-reporting-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-resources-http-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-resources-s3-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-resources-sftp-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-scala-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-signing-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-test-kit-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-testing-base-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-testing-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-testing-native-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/gradle-tooling-api-builders-3.0.jar" />
+                  <option value="$USER_HOME$/Downloads/gradle-3.0-all/gradle-3.0/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -947,9 +551,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/back-end/build.gradle" />
+        <option value="$PROJECT_DIR$/back-end/src/main/java/com/quirkbook/pojos/Dummy.java" />
       </list>
     </option>
   </component>
@@ -973,7 +575,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -992,8 +594,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1002,14 +602,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="back-end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="back-end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="churners-tripathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="back-end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1200,36 +869,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1286,91 +925,56 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1472197914273" />
-    <option name="modificationStamps">
-      <map>
-        <entry key="C:/funsets/funsets" value="1462300040000" />
-        <entry key="D:/Projects/recfun/recfun" value="1462352930000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3c9f5ac-6119-495f-a51d-83d51eccad0e" name="Default" comment="" />
-      <created>1472197361077</created>
+      <changelist id="0e26dcd8-14b9-4565-bb40-19eb06655707" name="Default" comment="" />
+      <created>1472202802277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1472197361077</updated>
+      <updated>1472202802277</updated>
     </task>
-    <task id="LOCAL-00001" summary="This is the first commit">
-      <created>1472198629530</created>
+    <task id="LOCAL-00001" summary="pojo sample added">
+      <created>1472203356686</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1472198629530</updated>
+      <updated>1472203356686</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1385,43 +989,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This is the first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the first commit" />
+    <MESSAGE value="pojo sample added" />
+    <option name="LAST_COMMIT_MESSAGE" value="pojo sample added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/back-end/src/main/java/MainPoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/src/test/java/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/src/main/java/com/quirkbook/pojos/Dummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
