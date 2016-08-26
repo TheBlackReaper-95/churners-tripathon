@@ -1,0 +1,3 @@
+rootProject.name = 'churners-tripathon'
+include 'Back-End'
+
