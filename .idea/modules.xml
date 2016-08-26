@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/back-end/back-end.iml" filepath="$PROJECT_DIR$/.idea/modules/back-end/back-end.iml" group="back-end" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/back-end/back-end_main.iml" filepath="$PROJECT_DIR$/.idea/modules/back-end/back-end_main.iml" group="back-end" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/back-end/back-end_test.iml" filepath="$PROJECT_DIR$/.idea/modules/back-end/back-end_test.iml" group="back-end" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/churners-tripathon.iml" filepath="$PROJECT_DIR$/.idea/modules/churners-tripathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/churners-tripathon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/churners-tripathon_main.iml" group="churners-tripathon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/churners-tripathon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/churners-tripathon_test.iml" group="churners-tripathon" />
+    </modules>
+  </component>
+</project>
